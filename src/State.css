@@ -1,0 +1,17 @@
+.btn-on {
+  padding: 10px 20px;
+  color: white;
+  background-color: green;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-off {
+  padding: 10px 20px;
+  color: white;
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
